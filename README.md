@@ -33,12 +33,6 @@ Inspiration and Support:
 To friends and colleagues who motivated and inspired the vision behind Soiree.
 Thank you for being part of this journey!
 
-
-## Appendix
-
-Any additional information goes here
-
-
 ## Authors
 
 - [@jonnicwolf](https://www.github.com/jonnicwolf)
