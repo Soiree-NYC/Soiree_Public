@@ -42,13 +42,12 @@ Thank you for being part of this journey!
 
 Short video demo [here](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/soiree.mp4)
 
-
-
-
-
 ## Tech Stack
 
 **Client:** TypeScript, React, Axios, TailwindCSS, React-Calendar, Vite, Vercel
 
 **Server:** Node, Express, Sequelize, PostgreSQL
 
+## License
+This project is proprietary and "All Rights Reserved."  
+No part of this repository, including the code and associated materials, may be used, copied, modified, or distributed without explicit permission from the owner.
